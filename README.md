@@ -1,6 +1,6 @@
 # ifaceX Studio
 
-ifaceX Studio is used for [ifaceX](https://products.autumo.ch) Interface
+ifaceX Studio is used for [ifaceX](https://ifacex.autumo.ch) Interface
 Processor Configurations (IPCs), to test them and to register an autumo ifaceX
 license.
 
