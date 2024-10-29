@@ -1,0 +1,14 @@
+<!-- ifaceX Studio Versions Definition -->
+<ifacex id="ifaceX Studio Versions Definition">
+
+	<versions>
+
+		<version value="1.0.0" upgradeto="1.2.0" />
+		<version value="1.2.0" upgradeto="1.2.1" />
+		<version value="1.2.1" upgradeto="2.0.0" />
+		<version value="2.0.0" upgradeto="2.1.0" />
+		<version value="2.1.0" upgradeto="2.1.0" />
+
+	</versions>
+
+</ifacex>
