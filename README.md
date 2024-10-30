@@ -1,6 +1,6 @@
 # ifaceX Studio
 
-The ifaceX studio is used to develop, create and test interface processor
+ifaceX studio is used to develop, create, and test interface processor
 configurations (IPCs) for the [autumo ifaceX](https://ifacex.autumo.ch)
 data integration and exchange platform.
 
