@@ -10,7 +10,7 @@ the ifaceX Studio installers for Windows, macOS, and Linux:
 * **Linux**: `ifaceX-Studio-X.Y.Z-amd64.deb`
 * **macOS (Apple Silicon)**: `ifaceX-Studio-X.Y.Z-arm64.pkg`
 * **macOS (Intel)**: `ifaceX-Studio-X.Y.Z-x64.pkg`
-* **Windows**: `ifaceX-Studio-X.Y.Z-x64.exe` and `ifaceX-Studio-X.Y.Z-x64.msi`
+* **Windows**: `ifaceX-Studio-X.Y.Z.exe` and `ifaceX-Studio-X.Y.Z.msi`
 
 For further information, download the [ifaceX Studio Manual](https://products.autumo.ch/ifacex/download).
 
