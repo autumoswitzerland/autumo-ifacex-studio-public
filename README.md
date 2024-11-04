@@ -35,4 +35,5 @@ For further information, download the [ifaceX Studio Manual](https://products.au
     - Automation and Workflow Orchestration
     - Hybrid Cloud Integration Platforms			
 
+<br>
 ![ifaceX Studio](https://raw.githubusercontent.com/autumoswitzerland/autumo-ifacex-studio-public/refs/heads/main/images/ifaceX-Studio-Screens.webp)
