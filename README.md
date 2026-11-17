@@ -28,4 +28,4 @@ For further information, download the [ifaceX Studio Manual](https://products.au
 - **Data Transformation**: The tool supports data transformation capabilities, allowing users to transform, manipulate and convert data as it moves between systems.
 - **Documentation and Support**: Comprehensive documentation is provided, along with support resources.
 
-![ifaceX Studio FX](https://raw.githubusercontent.com/autumoswitzerland/autumo-ifacex-studio-fx-public/refs/heads/main/images/ifaceX-Studio-Screens.webp)
+![ifaceX Studio FX](https://raw.githubusercontent.com/autumoswitzerland/autumo-ifacex-studio-fx-public/master/images/ifaceX-Studio-FX-Screen.webp)
